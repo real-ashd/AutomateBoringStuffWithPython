@@ -1,0 +1,3 @@
+py -m pip install pyperclip
+py -m pip --help (For help with pip)
+py -m pip list (For list of modules currently installed)
